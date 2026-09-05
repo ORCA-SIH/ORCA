@@ -1,5 +1,3 @@
-# ORCA
-ORCA - Marine Ecosystem Reasoning with Collaborative Agents - SIH26176
 # Walkthrough - Project ORCA Backend & Data Pipeline (Member 5)
 
 As **Member 5 (Backend API & Data Pipeline Scope)** for **Project ORCA (SIH26176)**, the backend infrastructure and geospatial data systems have been developed and verified. All development was strictly isolated to `backend/` and `data/` directories.
